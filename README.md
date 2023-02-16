@@ -4,7 +4,7 @@
 
 This repository contains two assets that you need to get this application working in your environment:
 
-- Power Platform solution (unmanaged): HALGPT3_1_0_0_X.zip
+- Power Platform solution (unmanaged): HALGPT3_1_0_0_X_managed.zip
 - Azure Function App Visual Studio project: PowerApps.TalkWithChatGPT
 
 You can use this link to see the app in action: https://youtube.com/shorts/H5hfnjMHs7U?feature=share
