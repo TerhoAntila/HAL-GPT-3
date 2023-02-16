@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "PowerApps.TalkWithChatGPT": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7235",
+      "launchBrowser": false
+    }
+  }
+}
