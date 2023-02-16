@@ -4,7 +4,7 @@
 
 This repository contains two assets that you need to get this application working in your environment:
 
-- Power Platform solution (unmanaged): HALGPT3_1_0_0_X_managed.zip
+- Power Platform solution: HALGPT3_1_0_0_X_managed.zip
 - Azure Function App Visual Studio project: PowerApps.TalkWithChatGPT
 
 You can use this link to see the app in action: https://youtube.com/shorts/H5hfnjMHs7U?feature=share
@@ -18,9 +18,6 @@ You need the following services available and the listed secrets and other value
 2. Azure Cognitive Services - https://azure.microsoft.com/en-us/products/cognitive-services/
 3. Azure Function App - https://learn.microsoft.com/en-us/azure/azure-functions/functions-overview
 4. OpenAI API access - https://platform.openai.com/account/api-keys
-
-|Environment variable|Value|
-|env|lk|
 
 
 |Environment variable |Example  |Notes |
